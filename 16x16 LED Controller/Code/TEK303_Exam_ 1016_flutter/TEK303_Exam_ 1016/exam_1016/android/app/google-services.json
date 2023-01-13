@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "662491187234",
+    "firebase_url": "https://theatre-cloud-57b4a-default-rtdb.firebaseio.com",
+    "project_id": "theatre-cloud-57b4a",
+    "storage_bucket": "theatre-cloud-57b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662491187234:android:ecedbb356ab7b9a750227b",
+        "android_client_info": {
+          "package_name": "com.example.exam_1016"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662491187234-s3iuo83p62d66hrvirgu48g2qmti1iuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZ9Jbt4FypgnhkFEJyNg4Y667XXOC0Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662491187234-s3iuo83p62d66hrvirgu48g2qmti1iuk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662491187234-fun6o5emmmspt9s0eiui71caqnp6bgeg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exam1016"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
